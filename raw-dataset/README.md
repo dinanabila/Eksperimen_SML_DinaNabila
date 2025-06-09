@@ -3,7 +3,7 @@
 ## Deskripsi
 Dataset ini menyediakan data mengenai jumlah penjualan telur selama 30 tahun dari sebuah toko di Sri Lanka.
 
-## Daftar Kolom: <br>
+## Daftar Kolom <br>
 - **Date**: tanggal penjualan
 - **Egg Sales**: jumlah telur yang terjual pada tanggal yang bersangkutan
 
