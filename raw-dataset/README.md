@@ -1,7 +1,7 @@
 # 🥚🥚🥚🥚
 
 ## Deskripsi
-Dataset ini menyediakan data yang kaya mengenai penjualan telur selama 30 tahun dari sebuah toko di Sri Lanka.
+Dataset ini menyediakan data mengenai jumlah penjualan telur selama 30 tahun dari sebuah toko di Sri Lanka.
 
 ## Daftar Kolom: <br>
 - **Date**: tanggal penjualan
