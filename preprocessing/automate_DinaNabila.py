@@ -55,7 +55,7 @@ def preprocess_data(df):
 # LOAD DATASET
 # ============
 # load dataset dari repo github
-df_telur = pd.read_csv('dataset-raw/train-egg-sales.csv', sep=';')
+df_telur = pd.read_csv('raw-dataset/train_egg_sales.csv', sep=';')
 
 
 # ===============================
