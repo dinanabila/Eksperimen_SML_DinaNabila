@@ -32,4 +32,4 @@ jobs:
       # Run preprocessing script
       - name: Run automate_DinaNabila.py
         run: |
-          python preprocess/automate_DinaNabila.py
+          python preprocessing/automate_DinaNabila.py
