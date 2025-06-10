@@ -47,8 +47,8 @@ def preprocess_data(df):
     # ======================================
     # EXPORT DATASET HASIL PREPROCESS KE CSV
     # ======================================
-    x_train.to_csv("preprocessing/x_train_preprocessing.csv", index=True, index_label="Date")
-    x_valid.to_csv("preprocessing/x_valid_preprocessing.csv", index=True, index_label="Date")
+    x_train.to_csv("preprocessing/preprocessed-dataset/x_train_preprocessing.csv", index=True, index_label="Date")
+    x_valid.to_csv("preprocessing/preprocessed-dataset/x_valid_preprocessing.csv", index=True, index_label="Date")
 
 
 # ============
